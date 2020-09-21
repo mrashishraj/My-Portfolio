@@ -25,3 +25,12 @@ body {
   font-size: 100px;
   color: blue;
 }
+
+.colorBlack {
+  color: black;
+}
+
+.p-tool {
+  color: blue;
+  font-size: 40px;
+}
