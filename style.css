@@ -40,9 +40,11 @@ body {
   margin-top: 150px;
 }
 
-.zoom {
-}
-
 .zoom:hover {
   transform: scale(1.1); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
 }
+
+
+.border-hover:hover {
+  border: 2px solid rgb(22, 7, 7); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+  box-shadow: 10px 10px 5px grey}
